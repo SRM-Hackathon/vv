@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonChoose" type="id">14dp</item>
+    <item name="buttonUpload" type="id">14dp</item>
+    <item name="imageView" type="id">14dp</item>
+</resources>
