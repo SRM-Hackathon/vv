@@ -5,7 +5,7 @@
     android:orientation="vertical" >
 
     <EditText
-        android:id="@+id/editTextuntl"
+        android:id="@+id/editTextUserNameToLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="User Name"
@@ -14,7 +14,7 @@
     </EditText>
 
     <EditText
-        android:id="@+id/editTextPtl"
+        android:id="@+id/editTextPasswordToLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"

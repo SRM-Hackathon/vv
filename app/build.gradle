@@ -4,8 +4,8 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
-        applicationId "com.example.verification.voter"
-        minSdkVersion 24
+        applicationId "com.example.android.androiduploadimage"
+        minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
